@@ -1,0 +1,13 @@
+@theme {
+  --font-sans: 'Outfit', system-ui, sans-serif;
+  --color-bg: #0d1f1c;
+  --color-surface: #162b27;
+  --color-surface-hover: #1f3d36;
+  --color-primary: #2dd4bf;
+  --color-primary-hover: #14b8a6;
+  --color-text: #f0fdfa;
+  --color-text-muted: #5eead4;
+  --color-accent: #fb923c;
+  --color-success: #22c55e;
+  --color-error: #ef4444;
+}

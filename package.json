@@ -1,0 +1,8 @@
+{
+  "name": "@dj-meyers/theme",
+  "version": "1.0.0",
+  "description": "Shared Tailwind CSS v4 theme",
+  "main": "theme.css",
+  "files": ["theme.css"],
+  "license": "MIT"
+}
